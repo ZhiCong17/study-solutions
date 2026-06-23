@@ -26,18 +26,27 @@ Prerequisites
 - npm
 
 Installation
+```
 npm install
+```
 
 Run Development Server
+```
 npm run dev
+```
 
 Build for Production
+```
 npm run build
+```
 
 Preview Production Build
+```
 npm run preview
+```
 
 Project Structure
+```
 src/
 ├── components/
 ├── assets/
@@ -45,6 +54,7 @@ src/
 ├── App.tsx
 ├── index.css
 └── main.tsx
+```
 
 Future Improvements
 
